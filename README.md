@@ -1,13 +1,16 @@
 # 📊 Sales Analytics Platform
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](#)
+<div align="center">
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://example2-ibx2nkjc542tgeqhndvqym.streamlit.app/)
 
 **👆 Попробуйте прямо сейчас - без установки! 👆**
 
-Интерактивная платформа для анализа данных о продажах с встроенными демо-данными.
+*Интерактивная платформа для анализа данных о продажах*
 
 ---
 
+</div>
 ## ✨ Возможности
 
 - 📁 **Загрузка данных** - поддержка CSV и Excel
