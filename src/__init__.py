@@ -1,5 +1,4 @@
-Sales Analytics Platform - Source Package
-"""
+"""Sales Analytics Platform - Source Package."""
 
 from . import data_loader
 from . import analysis
